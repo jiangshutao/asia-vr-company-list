@@ -8,3 +8,6 @@ List of company that is working on VR in Asia
 
 # WebVR company
 - [VRcollab](vrcollab.com) - creating WYSIWYG editor in VR for VR
+
+# VR content production company
+- [Hiverlab](hiverlab.com) - Focus at interactive VR storytelling and industrial application
